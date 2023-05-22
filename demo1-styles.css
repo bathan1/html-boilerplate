@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .text {
     font-size:30px;
     font-weight:bold;
@@ -8,9 +12,8 @@
     height: 100px;
     width: 100px;
     padding: 10px;
-    border: 20px solid purple;
-    margin: 70px;
-    box-sizing: border-box;
+    border: 10px solid purple;
+    margin: 10px;
 }
 
 #dolo {
