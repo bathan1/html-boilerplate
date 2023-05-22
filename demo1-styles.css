@@ -1,0 +1,23 @@
+.text {
+    font-size:30px;
+    font-weight:bold;
+}
+
+#solo {
+    background-color: lightcoral;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 20px solid purple;
+    margin: 70px;
+    box-sizing: border-box;
+}
+
+#dolo {
+    background-color:darkcyan;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 30px solid purple;
+    margin: 70px;
+}
