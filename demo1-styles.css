@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.text {
+    font-size:30px;
+    font-weight:bold;
+}
+
+#solo {
+    background-color: lightcoral;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 10px solid purple;
+    margin: 10px;
+}
+
+#dolo {
+    background-color:darkcyan;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 30px solid purple;
+    margin: 70px;
+}
