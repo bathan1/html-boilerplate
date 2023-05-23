@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+#solo {
+    display: flex;
+    height: 250px;
+    width: auto;
+
+    background-color: aquamarine;
+
+    padding: 2px;
+    border: 2px solid black;
+    margin: 8px;
+}
+
+#one {
+    border: 2px solid black;
+    margin: 3px;
+    flex: 1 1 0;
+
+}
+
+#two {
+    border: 2px solid black;
+    margin: 3px;
+    flex: 1 1 0;
+
+}
